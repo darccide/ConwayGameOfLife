@@ -1,5 +1,5 @@
 # Steven Thomson's Coding interview Challenge
-<dl></dl>
+
 ### About
 This is a simple version of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life). It is a [zero-player game](https://en.wikipedia.org/wiki/Zero-player_game) consists of a grid of cells, each of which can be alive or dead. For every cycle of the game, the cells can be turned on or off based on the following rules:
 
