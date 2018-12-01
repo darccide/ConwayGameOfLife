@@ -34,6 +34,6 @@ npm start
 ## Author
 Steven Thomson is a Fullstack Developer who currently resides in South Korea, but is transistioning back to the U.S. If you would like to contact him:
 
- * [Steven Thomson's Email](steven.thomson88@gmail.com)
- * [Steven Thomson's LinkedIn](https://www.linkedin.com/in/steventhomson1988/)
+ * (steven.thomson88@gmail.com)
+ * (https://www.linkedin.com/in/steventhomson1988/)
 
