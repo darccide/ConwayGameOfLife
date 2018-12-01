@@ -21,7 +21,10 @@ This was built first by using npm.
   7. I then used window.onload and set the parameters necessary to display the game.
   8. I then created the html styling necessary in the index.html file.
 ## Tech
-I used npm, react.js, babel-cli, and babel-preset-env
+ * npm
+ * react.js 
+ * babel-cli 
+ * babel-preset-env
 
 ## Improvements
 Obviously there are lots of things that could be added, such as allowing the user to pause the game, reset the grid, draw their own patterns on the grid, and testing to name a few. However, all I really wanted to do is get a working version of Life up and running with the time constraints since I needed to figure out many of the mechanics of the game as well as drawing the grid within the 1.5 hour time limit. 
@@ -34,6 +37,6 @@ npm start
 ## Author
 Steven Thomson is a Fullstack Developer who currently resides in South Korea, but is transistioning back to the U.S. If you would like to contact him:
 
- * (steven.thomson88@gmail.com)
- * (https://www.linkedin.com/in/steventhomson1988/)
+ * steven.thomson88@gmail.com
+ * [Steven Thomson's LinkedIn](https://www.linkedin.com/in/steventhomson1988/)
 
