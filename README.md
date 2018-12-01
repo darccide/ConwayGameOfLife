@@ -31,7 +31,7 @@ Obviously there are lots of things that could be added, such as allowing the use
 
 ## Install
 ```
-git clone git@github.com:darccide/ConwayGameOfLife # or clone your own fork
+git clone git@github.com:darccide/ConwayGameOfLife `# or clone your own fork`
 cd ConwayGameOfLife
 npm install
 npm start
