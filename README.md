@@ -5,10 +5,10 @@
 This is a simple version of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life). It is a [zero-player game](https://en.wikipedia.org/wiki/Zero-player_game) consists of a grid of cells, each of which can be alive or dead. For every cycle of the game, the cells can be turned on or off based on the following rules:
 
 
-   1. If a dead cell has exactly three live neighbours, it comes to life.
-   2. If a live cell has less than two live neighbours, it dies.
-   3. If a live cell has more than three live neighbours, it dies.
-   4. If a live cell has two or three live neighbours, it continues living.
+  * If a dead cell has exactly three live neighbors, it comes to life.
+  * If a live cell has less than two live neighbours, it dies.
+  * If a live cell has more than three live neighbours, it dies.
+  * If a live cell has two or three live neighbours, it continues living.
 
 
 
