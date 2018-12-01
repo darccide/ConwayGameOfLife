@@ -9,9 +9,7 @@ This is a simple version of [Conway's Game of Life](https://en.wikipedia.org/wik
   * If a live cell has more than three live neighbours, it dies.
   * If a live cell has two or three live neighbours, it continues living.
 
-
-
-https://www.youtube.com/watch?v=C2vgICfQawE&t=194s
+By repeating the cycle of these rules over and over, many interesting patterns can be [created](https://www.youtube.com/watch?v=C2vgICfQawE&t=194s)
 ### Build Process
 <dl></dl>
 ### Tech
